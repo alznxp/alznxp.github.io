@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alizain Prasla</title>
+    <!-- Tailwind CSS CDN link -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Google Fonts for JetBrains Mono -->
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Custom Tailwind CSS style to include JetBrains Mono */
+        body {
+            font-family: 'JetBrains Mono', monospace;
+            background-color: #111111;
+        }
+
+        /* Blinking underscore animation */
+        @keyframes blink {
+
+            0%,
+            50% {
+                opacity: 1;
+            }
+
+            50%,
+            100% {
+                opacity: 0;
+            }
+        }
+
+        .blinking-underscore {
+            display: inline-block;
+            color: white;
+            animation: blink 1.15s infinite steps(1, end);
+        }
+    </style>
+</head>
+
+<body class="h-screen flex items-center justify-center">
+    <div class="flex flex-col items-center justify-center gap-y-4 p-6 rounded-lg">
+        <div class="flex flex-col items-center">
+            <span class="text-md text-center text-black bg-gray-200 py-1 px-2 mb-4 flex items-center">
+                alznxp
+                <img src="assets/verified.svg" alt="verified" class="w-5 h-5 ml-1">
+            </span>
+            <div class="flex justify-between w-30 gap-2">
+                <a href="https://github.com/alznxp" target="_blank" class="bg-gray-200 p-1">
+                    <img src="assets/github.svg" alt="GitHub" class="w-6 h-6">
+                </a>
+                <a href="https://x.com/alznxp" target="_blank" class="bg-gray-200 p-1">
+                    <img src="assets/x.svg" alt="X" class="w-6 h-6">
+                </a>
+                <a href="https://stackoverflow.com/users/27055085/alizain" target="_blank" class="bg-gray-200 p-1">
+                    <img src="assets/stackoverflow.svg" alt="Stack Overflow" class="w-6 h-6">
+                </a>
+            </div>
+            <div class="text-sm text-center text-white py-1 px-2 mt-3 flex items-center">
+                <span>&gt; under construction</span>
+                <span class="blinking-underscore">_</span>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
