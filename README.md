@@ -1,4 +1,5 @@
 ### alznxp.github.io
 
 alznxp's personal website
-- currently under construction website deployed
+- Currently under construction website deployed
+- In-Scope to upgrade it to actual functioning personal website in 2025
