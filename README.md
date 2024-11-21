@@ -13,6 +13,10 @@ This repository hosts the source code and deployment for my personal portfolio w
 #### Versioning  
 I use Git for version control to ensure systematic development and tracking of updates over time. Major features and fixes will be tagged with corresponding release versions.  
 
+#### Deployment
+
+Deployment is managed through GitHub Pages.
+
 #### Usage  
 The website is publicly accessible but still under development. Contributions are not currently accepted as it represents my personal portfolio.  
 
