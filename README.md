@@ -15,7 +15,7 @@ I use Git for version control to ensure systematic development and tracking of u
 
 #### Deployment
 
-Deployment is managed through GitHub Pages.
+Deployment is automated and managed through GitHub Pages.
 
 #### Usage  
 The website is publicly accessible but still under development. Contributions are not currently accepted as it represents my personal portfolio.  
