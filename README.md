@@ -5,7 +5,8 @@ This repository hosts the source code and deployment for my personal portfolio w
 
 #### Contents  
 - **Website Design**: A minimalistic and professional design reflecting my personal branding (education, experience, etc).  
-- **Future Features** (Planned for 2025):
+- **Future Features** (Planned for 2025, under development):
+  - Made with Next.js/TypeScript/TailwindCSS
   - Interactive project portfolio with detailed descriptions and demos.  
   - Blog section for sharing insights on technology and personal growth.  
   - Contact page with a functional inquiry form and integrated social links.  
