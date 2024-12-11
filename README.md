@@ -9,7 +9,8 @@ This repository hosts the source code and deployment for my personal portfolio w
   - Next.js/TypeScript/TailwindCSS/MDX/Framer
   - Interactive project portfolio with detailed descriptions and demos.  
   - Blog section for sharing insights on technology and personal growth.  
-  - Contact page with a functional inquiry form and integrated social links.  
+  - Contact page with a functional inquiry form and integrated social links.
+  - Custom Domain 
 
 #### Versioning  
 I use Git for version control to ensure systematic development and tracking of updates over time. Major features and fixes will be tagged with corresponding release versions.  
