@@ -8,7 +8,7 @@ This repository hosts the source code and deployment for my personal portfolio w
 - **Future Features** (Planned for 2025, under development):
   - Next.js/TypeScript/TailwindCSS/MDX/Framer
   - Interactive project portfolio with detailed descriptions and demos.  
-  - Blog section for sharing insights on technology and personal growth.  
+  - Blog section for sharing insights on technology, finances and personal growth.  
   - Contact page with a functional inquiry form and integrated social links.
   - Custom Domain 
 
