@@ -1,16 +1,7 @@
 ### alznxp's Personal Website  
 
 #### Overview  
-This repository hosts the source code and deployment for my personal portfolio website, currently under construction. The site is intended to evolve into a fully functional portfolio sometime in 2025, showcasing my work, skills, and accomplishments.  
-
-#### Contents  
-- **Website Design**: A minimalistic and professional design reflecting my personal branding (education, experience, etc).  
-- **Future Features** (Planned for 2025, under development):
-  - Next.js/TypeScript/TailwindCSS/MDX + Markdown/Framer
-  - Interactive project portfolio with detailed descriptions and demos.  
-  - Blog section for sharing insights on technology, finances and personal growth.  
-  - Contact page with a functional inquiry form and integrated social links.
-  - Custom Domain 
+This repository hosts the source code and deployment for my personal portfolio website, currently under construction. It is now archived and an official portfolio website has been moved to ![alznxp.com](alznxp.com) The site is intended to evolve into a fully functional portfolio sometime in 2025, showcasing my work, skills, and accomplishments.  
 
 #### Versioning  
 I use Git for version control to ensure systematic development and tracking of updates over time. Major features and fixes will be tagged with corresponding release versions.  
