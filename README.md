@@ -1,5 +1,8 @@
 ### alznxp's Personal Website  
 
+#### Latest Update
+Repository archived as of May, 2025 and after. 
+
 #### Overview  
 This repository hosts the source code and deployment for my personal portfolio website, currently under construction. It is now archived and an official portfolio website has been moved to [alznxp.com](https://alznxp.com). The site is intended to evolve into a fully functional portfolio sometime in 2025, showcasing my work, skills, and accomplishments.  
 
